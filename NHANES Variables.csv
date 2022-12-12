@@ -1,0 +1,29 @@
+Variable Name,Meaning,,,,,,,
+SEQN,Respondent sequence number,,x,SEQN & Respondent sequence number,,,,SEQN: Respondent sequence number
+ALQ101,Had at least 12 alcohol drinks/1 yr?,Alcohol,x,ALQ101 & Had at least 12 alcohol drinks/1 yr?,,,,ALQ101: Had at least 12 alcohol drinks/1 yr?
+ALQ110,Had at least 12 alcohol drinks/lifetime?,,x,ALQ110 & Had at least 12 alcohol drinks/lifetime?,,,,ALQ110: Had at least 12 alcohol drinks/lifetime?
+ALQ130,Avg # alcoholic drinks/day -past 12 mos,,x,ALQ130 & Avg # alcoholic drinks/day -past 12 mos,,,,ALQ130: Avg # alcoholic drinks/day -past 12 mos
+SMQ020,Smoked at least 100 cigarettes in life,,x,SMQ020 & Smoked at least 100 cigarettes in life,,,,SMQ020: Smoked at least 100 cigarettes in life
+RIAGENDR,Gender,,,RIAGENDR & Gender,,,,RIAGENDR: Gender
+RIDAGEYR,Age at Screening,,,RIDAGEYR & Age at Screening,,,,RIDAGEYR: Age at Screening
+RIDRETH1,Race/Ethnicity - Recode,,x,RIDRETH1 & Race/Ethnicity - Recode,,,,RIDRETH1: Race/Ethnicity - Recode
+DMDCITZN,Citizenship Status,,x,DMDCITZN & Citizenship Status,,,,DMDCITZN: Citizenship Status
+DMDEDUC2,Education Level - Adults 20+,,,DMDEDUC2 & Education Level - Adults 20+,,,,DMDEDUC2: Education Level - Adults 20+
+DMDMARTL,Marital Status,,,DMDMARTL & Marital Status,,,,DMDMARTL: Marital Status
+DMDHHSIZ,Total number of people in the Household,,,DMDHHSIZ & Total number of people in the Household,,,,DMDHHSIZ: Total number of people in the Household
+WTINT2YR,Full Sample 2 Year Interview Weight,,,WTINT2YR & Full Sample 2 Year Interview Weight,,,,WTINT2YR: Full Sample 2 Year Interview Weight
+SDMVPSU,Masked Variance Pseudo-PSU,,x,SDMVPSU & Masked Variance Pseudo-PSU,,,,SDMVPSU: Masked Variance Pseudo-PSU
+SDMVSTRA,Masked Variance Pseudo-Stratum,,x,SDMVSTRA & Masked Variance Pseudo-Stratum,,,,SDMVSTRA: Masked Variance Pseudo-Stratum
+INDFMPIR,Poverty income ratio (PIR) - a ratio of family income to poverty threshold,,,INDFMPIR & Poverty income ratio (PIR) - a ratio of family income to poverty threshold,,,,INDFMPIR: Poverty income ratio (PIR) - a ratio of family income to poverty threshold
+BPXSY1,Systolic: Blood pressure (first reading) mm Hg,Blood Pressure,,BPXSY1 & Systolic: Blood pressure (first reading) mm Hg,,,,BPXSY1: Systolic: Blood pressure (first reading) mm Hg
+BPXDI1,Diastolic: Blood pressure (first reading) mm Hg,,,BPXDI1 & Diastolic: Blood pressure (first reading) mm Hg,,,,BPXDI1: Diastolic: Blood pressure (first reading) mm Hg
+BPXSY2,Systolic: Blood pressure (second reading) mm Hg,,,BPXSY2 & Systolic: Blood pressure (second reading) mm Hg,,,,BPXSY2: Systolic: Blood pressure (second reading) mm Hg
+BPXDI2,Diastolic: Blood pressure (second reading) mm Hg,,,BPXDI2 & Diastolic: Blood pressure (second reading) mm Hg,,,,BPXDI2: Diastolic: Blood pressure (second reading) mm Hg
+BMXWT,Weight (kg),Measurements,,BMXWT & Weight (kg),,,,BMXWT: Weight (kg)
+BMXHT,Standing Height (cm),,,BMXHT & Standing Height (cm),,,,BMXHT: Standing Height (cm)
+BMXBMI,Body Mass Index (kg/m**2),,,BMXBMI & Body Mass Index (kg/m**2),,,,BMXBMI: Body Mass Index (kg/m**2)
+BMXLEG,Upper Leg Length (cm),,,BMXLEG & Upper Leg Length (cm),,,,BMXLEG: Upper Leg Length (cm)
+BMXARML,Upper Arm Length (cm),,,BMXARML & Upper Arm Length (cm),,,,BMXARML: Upper Arm Length (cm)
+BMXARMC,Arm Circumference (cm),,,BMXARMC & Arm Circumference (cm),,,,BMXARMC: Arm Circumference (cm)
+BMXWAIST,Waist Circumference (cm),,,BMXWAIST & Waist Circumference (cm),,,,BMXWAIST: Waist Circumference (cm)
+HIQ210,Time when no insurance in past year?,,x,HIQ210 & Time when no insurance in past year?,,,,HIQ210: Time when no insurance in past year?
